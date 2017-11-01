@@ -1,0 +1,92 @@
+2017-11-01T11:05:24.524582000 0.253768s notice: Recursively removing directory /Users/alex/Documents/DevtreeAcademy/week-8/hollywood-app/hollywood-api/rethinkdb_data/tmp
+2017-11-01T11:05:24.527569000 0.256762s notice: Initializing directory /Users/alex/Documents/DevtreeAcademy/week-8/hollywood-app/hollywood-api/rethinkdb_data
+2017-11-01T11:05:24.527735000 0.256919s info: Creating a default database for your convenience. (This is because you ran 'rethinkdb' without 'create', 'serve', or '--join', and the directory '/Users/alex/Documents/DevtreeAcademy/week-8/hollywood-app/hollywood-api/rethinkdb_data' did not already exist or is empty.)
+2017-11-01T11:05:24.527784000 0.256968s notice: Running rethinkdb 2.3.6 (CLANG 8.1.0 (clang-802.0.42))...
+2017-11-01T11:05:24.552604000 0.281790s notice: Running on Darwin 16.7.0 x86_64
+2017-11-01T11:05:24.552691000 0.281876s notice: Loading data from directory /Users/alex/Documents/DevtreeAcademy/week-8/hollywood-app/hollywood-api/rethinkdb_data
+2017-11-01T11:05:25.268042000 0.997243s info: Automatically using cache size of 100 MB
+2017-11-01T11:05:25.268053000 0.997254s warn: Cache size does not leave much memory for server and query overhead (available memory: 813 MB).
+2017-11-01T11:05:25.268071000 0.997272s warn: Cache size is very low and may impact performance.
+2017-11-01T11:05:25.268727000 0.997929s notice: Listening for intracluster connections on port 29015
+2017-11-01T11:05:25.270355000 0.999556s notice: Listening for client driver connections on port 28015
+2017-11-01T11:05:25.270496000 0.999697s notice: Listening for administrative HTTP connections on port 8080
+2017-11-01T11:05:25.270498000 0.999699s notice: Listening on cluster addresses: 127.0.0.1, ::1
+2017-11-01T11:05:25.270501000 0.999703s notice: Listening on driver addresses: 127.0.0.1, ::1
+2017-11-01T11:05:25.270504000 0.999705s notice: Listening on http addresses: 127.0.0.1, ::1
+2017-11-01T11:05:25.270509000 0.999710s notice: To fully expose RethinkDB on the network, bind to all addresses by running rethinkdb with the `--bind all` command line option.
+2017-11-01T11:05:25.270514000 0.999715s notice: Server ready, "apples_mbp_lan_cyk" 3dc7d761-ee05-4e6c-9472-2ac0c02cda71
+2017-11-01T11:05:35.679875000 11.409251s info: Table 836cef5c-e3c7-4d59-944e-236c6d1c2c35: Starting a new Raft election for term 1.
+2017-11-01T11:05:35.714717000 11.444093s info: Table 836cef5c-e3c7-4d59-944e-236c6d1c2c35: Added replica on this server.
+2017-11-01T11:05:35.714843000 11.444219s info: Table 5734996a-e0e0-4390-84be-837960d63948: Starting a new Raft election for term 1.
+2017-11-01T11:05:35.715023000 11.444399s info: Table 5734996a-e0e0-4390-84be-837960d63948: Added replica on this server.
+2017-11-01T11:05:35.783037000 11.512413s info: Table 1da06735-1164-400c-b9f6-7e8708e98ab1: Starting a new Raft election for term 1.
+2017-11-01T11:05:35.783480000 11.512856s info: Table 1da06735-1164-400c-b9f6-7e8708e98ab1: Added replica on this server.
+2017-11-01T11:05:35.919104000 11.648480s info: Table 5e18df74-b0e8-4cc0-9be2-f0aaa7b6df0c: Starting a new Raft election for term 1.
+2017-11-01T11:05:35.919538000 11.648913s info: Table 5e18df74-b0e8-4cc0-9be2-f0aaa7b6df0c: Added replica on this server.
+2017-11-01T11:05:36.085891000 11.815267s info: Table 836cef5c-e3c7-4d59-944e-236c6d1c2c35: This server is Raft leader for term 1. Latest log index is 0.
+2017-11-01T11:05:36.086137000 11.815513s info: Table 5734996a-e0e0-4390-84be-837960d63948: This server is Raft leader for term 1. Latest log index is 0.
+2017-11-01T11:05:36.141877000 11.871253s info: Table 1da06735-1164-400c-b9f6-7e8708e98ab1: This server is Raft leader for term 1. Latest log index is 0.
+2017-11-01T11:05:36.142026000 11.871401s info: Table 5e18df74-b0e8-4cc0-9be2-f0aaa7b6df0c: This server is Raft leader for term 1. Latest log index is 0.
+2017-11-01T11:55:39.633031000 3015.410723s notice: Server got SIGINT from pid 441, uid 502; shutting down...
+2017-11-01T11:55:39.633453000 3015.411145s notice: Shutting down client connections...
+2017-11-01T11:55:39.638106000 3015.415798s notice: All client connections closed.
+2017-11-01T11:55:39.638113000 3015.415804s notice: Shutting down storage engine... (This may take a while if you had a lot of unflushed data in the writeback cache.)
+2017-11-01T11:55:39.715689000 3015.493381s notice: Storage engine shut down.
+2017-11-01T11:55:44.303184000 0.049686s notice: Running rethinkdb 2.3.6 (CLANG 8.1.0 (clang-802.0.42))...
+2017-11-01T11:55:44.337386000 0.083882s notice: Running on Darwin 16.7.0 x86_64
+2017-11-01T11:55:44.337465000 0.083960s notice: Loading data from directory /Users/alex/Documents/DevtreeAcademy/week-8/hollywood-app/hollywood-api/rethinkdb_data
+2017-11-01T11:55:44.511037000 0.257533s info: Automatically using cache size of 100 MB
+2017-11-01T11:55:44.511049000 0.257544s warn: Cache size does not leave much memory for server and query overhead (available memory: 747 MB).
+2017-11-01T11:55:44.511061000 0.257555s warn: Cache size is very low and may impact performance.
+2017-11-01T11:55:44.511780000 0.258275s notice: Listening for intracluster connections on port 29015
+2017-11-01T11:55:44.665950000 0.412445s notice: Listening for client driver connections on port 28015
+2017-11-01T11:55:44.666118000 0.412613s notice: Listening for administrative HTTP connections on port 8080
+2017-11-01T11:55:44.666121000 0.412616s notice: Listening on cluster addresses: 127.0.0.1, ::1
+2017-11-01T11:55:44.666141000 0.412635s notice: Listening on driver addresses: 127.0.0.1, ::1
+2017-11-01T11:55:44.666143000 0.412638s notice: Listening on http addresses: 127.0.0.1, ::1
+2017-11-01T11:55:44.666145000 0.412639s notice: To fully expose RethinkDB on the network, bind to all addresses by running rethinkdb with the `--bind all` command line option.
+2017-11-01T11:55:44.666147000 0.412642s notice: Server ready, "apples_mbp_lan_cyk" 3dc7d761-ee05-4e6c-9472-2ac0c02cda71
+2017-11-01T11:55:45.690557000 1.437068s info: Table 1da06735-1164-400c-b9f6-7e8708e98ab1: Starting a new Raft election for term 2.
+2017-11-01T11:55:45.832337000 1.578849s info: Table 1da06735-1164-400c-b9f6-7e8708e98ab1: This server is Raft leader for term 2. Latest log index is 3.
+2017-11-01T11:55:45.909284000 1.655812s info: Table 5734996a-e0e0-4390-84be-837960d63948: Starting a new Raft election for term 2.
+2017-11-01T11:55:46.049648000 1.796176s info: Table 5734996a-e0e0-4390-84be-837960d63948: This server is Raft leader for term 2. Latest log index is 3.
+2017-11-01T11:55:46.253800000 2.000329s info: Table 5e18df74-b0e8-4cc0-9be2-f0aaa7b6df0c: Starting a new Raft election for term 2.
+2017-11-01T11:55:46.449911000 2.196439s info: Table 5e18df74-b0e8-4cc0-9be2-f0aaa7b6df0c: This server is Raft leader for term 2. Latest log index is 3.
+2017-11-01T11:55:46.624598000 2.371127s info: Table 836cef5c-e3c7-4d59-944e-236c6d1c2c35: Starting a new Raft election for term 2.
+2017-11-01T11:55:46.869282000 2.615810s info: Table 836cef5c-e3c7-4d59-944e-236c6d1c2c35: This server is Raft leader for term 2. Latest log index is 3.
+2017-11-01T13:18:10.414746000 4946.251993s notice: Removing file /Users/alex/Documents/DevtreeAcademy/week-8/hollywood-app/hollywood-api/rethinkdb_data/1da06735-1164-400c-b9f6-7e8708e98ab1
+2017-11-01T13:18:10.414764000 4946.252010s info: Table 1da06735-1164-400c-b9f6-7e8708e98ab1: Deleted the table.
+2017-11-01T13:18:10.564172000 4946.401418s notice: Removing file /Users/alex/Documents/DevtreeAcademy/week-8/hollywood-app/hollywood-api/rethinkdb_data/5734996a-e0e0-4390-84be-837960d63948
+2017-11-01T13:18:10.564188000 4946.401434s info: Table 5734996a-e0e0-4390-84be-837960d63948: Deleted the table.
+2017-11-01T13:18:10.700152000 4946.537398s notice: Removing file /Users/alex/Documents/DevtreeAcademy/week-8/hollywood-app/hollywood-api/rethinkdb_data/5e18df74-b0e8-4cc0-9be2-f0aaa7b6df0c
+2017-11-01T13:18:10.700167000 4946.537412s info: Table 5e18df74-b0e8-4cc0-9be2-f0aaa7b6df0c: Deleted the table.
+2017-11-01T13:18:10.836368000 4946.673636s notice: Removing file /Users/alex/Documents/DevtreeAcademy/week-8/hollywood-app/hollywood-api/rethinkdb_data/836cef5c-e3c7-4d59-944e-236c6d1c2c35
+2017-11-01T13:18:10.836384000 4946.673651s info: Table 836cef5c-e3c7-4d59-944e-236c6d1c2c35: Deleted the table.
+2017-11-01T13:18:26.920395000 4962.757992s info: Table feb9047a-08da-44c4-bd88-b1b379e83ddc: Starting a new Raft election for term 1.
+2017-11-01T13:18:26.920669000 4962.758265s info: Table feb9047a-08da-44c4-bd88-b1b379e83ddc: Added replica on this server.
+2017-11-01T13:18:27.006127000 4962.843724s info: Table fdcf3d3f-23a7-4236-915a-3bb38ca12e12: Starting a new Raft election for term 1.
+2017-11-01T13:18:27.006755000 4962.844351s info: Table fdcf3d3f-23a7-4236-915a-3bb38ca12e12: Added replica on this server.
+2017-11-01T13:18:27.161258000 4962.998854s info: Table 737c5275-3138-4f83-90b1-80fd7169556e: Starting a new Raft election for term 1.
+2017-11-01T13:18:27.161483000 4962.999079s info: Table 737c5275-3138-4f83-90b1-80fd7169556e: Added replica on this server.
+2017-11-01T13:18:27.337103000 4963.174700s info: Table feb9047a-08da-44c4-bd88-b1b379e83ddc: This server is Raft leader for term 1. Latest log index is 0.
+2017-11-01T13:18:27.393973000 4963.231570s info: Table fdcf3d3f-23a7-4236-915a-3bb38ca12e12: This server is Raft leader for term 1. Latest log index is 0.
+2017-11-01T13:18:27.394185000 4963.231781s info: Table 737c5275-3138-4f83-90b1-80fd7169556e: This server is Raft leader for term 1. Latest log index is 0.
+2017-11-01T13:18:30.614003000 4966.451665s info: Table feb9047a-08da-44c4-bd88-b1b379e83ddc: Configuration is changing.
+2017-11-01T13:18:30.614101000 4966.451763s info: Table feb9047a-08da-44c4-bd88-b1b379e83ddc: Configuration is changing.
+2017-11-01T14:33:27.838026000 9463.766637s notice: Removing file /Users/alex/Documents/DevtreeAcademy/week-8/hollywood-app/hollywood-api/rethinkdb_data/737c5275-3138-4f83-90b1-80fd7169556e
+2017-11-01T14:33:27.838049000 9463.766659s info: Table 737c5275-3138-4f83-90b1-80fd7169556e: Deleted the table.
+2017-11-01T14:33:28.030742000 9463.959374s notice: Removing file /Users/alex/Documents/DevtreeAcademy/week-8/hollywood-app/hollywood-api/rethinkdb_data/fdcf3d3f-23a7-4236-915a-3bb38ca12e12
+2017-11-01T14:33:28.030760000 9463.959391s info: Table fdcf3d3f-23a7-4236-915a-3bb38ca12e12: Deleted the table.
+2017-11-01T14:33:28.186643000 9464.115274s notice: Removing file /Users/alex/Documents/DevtreeAcademy/week-8/hollywood-app/hollywood-api/rethinkdb_data/feb9047a-08da-44c4-bd88-b1b379e83ddc
+2017-11-01T14:33:28.186655000 9464.115286s info: Table feb9047a-08da-44c4-bd88-b1b379e83ddc: Deleted the table.
+2017-11-01T14:34:22.622414000 9518.552147s info: Table c29cff1e-9a6f-4f7d-a99e-4f04627e8078: Starting a new Raft election for term 1.
+2017-11-01T14:34:22.622735000 9518.552469s info: Table c29cff1e-9a6f-4f7d-a99e-4f04627e8078: Added replica on this server.
+2017-11-01T14:34:25.038468000 9520.968245s info: Table ec9613d0-c48d-4fc3-a53c-e4ceb355b49f: Starting a new Raft election for term 1.
+2017-11-01T14:34:25.038984000 9520.968761s info: Table ec9613d0-c48d-4fc3-a53c-e4ceb355b49f: Added replica on this server.
+2017-11-01T14:34:25.308610000 9521.238386s info: Table 600f534a-bc8f-486d-9af0-1d3c70856405: Starting a new Raft election for term 1.
+2017-11-01T14:34:25.308827000 9521.238603s info: Table 600f534a-bc8f-486d-9af0-1d3c70856405: Added replica on this server.
+2017-11-01T14:34:25.454099000 9521.383896s info: Table c29cff1e-9a6f-4f7d-a99e-4f04627e8078: This server is Raft leader for term 1. Latest log index is 0.
+2017-11-01T14:34:25.535372000 9521.465170s info: Table ec9613d0-c48d-4fc3-a53c-e4ceb355b49f: This server is Raft leader for term 1. Latest log index is 0.
+2017-11-01T14:34:25.535497000 9521.465294s info: Table 600f534a-bc8f-486d-9af0-1d3c70856405: This server is Raft leader for term 1. Latest log index is 0.
+2017-11-01T14:34:28.786719000 9524.716580s info: Table 600f534a-bc8f-486d-9af0-1d3c70856405: Configuration is changing.
+2017-11-01T14:34:28.786841000 9524.716702s info: Table 600f534a-bc8f-486d-9af0-1d3c70856405: Configuration is changing.
